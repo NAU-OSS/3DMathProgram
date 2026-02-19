@@ -13,3 +13,9 @@
 - addition
 - cross product
 - dot product
+
+# Local installation
+git clone https://github.com/NAU-OSS/3DMathProgram
+cd 3DMathProgram
+
+Now you can play with this program yourself!
